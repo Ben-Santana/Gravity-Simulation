@@ -1,10 +1,8 @@
 from cmath import cos, sin
 import math
-import numpy
 import pygame
 import random
 from vector import Vector, random_vector
-import vector
 
 pygame.init()
 
